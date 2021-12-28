@@ -18,3 +18,34 @@ I currently speak :de: **German**, :us: **English**, :jp: **Japanese**, and :cn:
 - **Dean's List** 2020 member
 - **JASSO scholarship** 2019
 - **DAAD scholarship** 2019
+
+## :hammer_and_wrench: Technical Skills
+
+# Front End
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=Angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.JS-0d1117?style=for-the-badge&logo=NodeDotJS&logoColor=339933)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-0d1117?style=for-the-badge&logo=TailwindCss&logoColor=06B6D4)
+![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=Sass&logoColor=CC6699)
+
+# Back End
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=Python&logoColor=3776AB)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=CSharp&logoColor=239120)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=CPlusPlus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=C&logoColor=A8B9CC)
+
+# Mobile
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=Flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=Dart&logoColor=0175C2)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=Java&logoColor=007396)
+![Material Design](https://img.shields.io/badge/Material%20Design-0d1117?style=for-the-badge&logo=MaterialDesign&logoColor=757575)
+![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=Android&logoColor=3DDC84)
+![iOS](https://img.shields.io/badge/iOS-0d1117?style=for-the-badge&logo=Apple&logoColor=white)
+
+# Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=Keras&logoColor=D00000)
