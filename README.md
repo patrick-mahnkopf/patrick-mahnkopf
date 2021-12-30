@@ -37,6 +37,8 @@ I currently speak :de: **German**, :us: **English**, :jp: **Japanese**, and :cn:
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=CSharp&logoColor=239120)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=CPlusPlus&logoColor=00599C)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=Git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white)
 
 # Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=Flutter&logoColor=02569B)
