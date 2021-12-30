@@ -51,3 +51,7 @@ I currently speak :de: **German**, :us: **English**, :jp: **Japanese**, and :cn:
 # Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=Keras&logoColor=D00000)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=NumPy&logoColor=013243)
+![pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
