@@ -2,7 +2,7 @@
 
 ## :point_left: About me
 
-:man_student: I am Patrick Mahnkopf, a **Full Stack Software Engineer** with a **M.Sc. in Computer Science** from the Leibniz University of Hannover, Germany.
+:man_student: I am Patrick Mahnkopf, a **Full Stack Software Engineer** with an **M.Sc. in Computer Science** from the Leibniz University of Hannover, Germany.
 
 :man_technologist: I have done **Cross-Platform** work with **Flutter** and **Dart**, **Front end development** with **Angular**, native development for **Android**, **Machine Learning** (especially working on **Handwriting OCR** using **Tensorflow** and **Keras**), as well as hobby projects such as an Add-on for the Spaced repetition software Anki.
 
