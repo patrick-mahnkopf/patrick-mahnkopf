@@ -28,8 +28,8 @@ I currently speak <img alt="German Flag" width="16px" src="./germany-flag.svg"> 
 ![Node.js](https://img.shields.io/badge/Node.JS-0d1117?style=for-the-badge&logo=NodeDotJS&logoColor=339933)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![TailwindCss](https://img.shields.io/badge/TailwindCss-0d1117?style=for-the-badge&logo=TailwindCss&logoColor=06B6D4)
 ![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=Sass&logoColor=CC6699)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-0d1117?style=for-the-badge&logo=TailwindCss&logoColor=06B6D4)
 
 # Back End
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=Java&logoColor=007396)
