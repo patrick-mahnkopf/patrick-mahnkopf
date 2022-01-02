@@ -4,7 +4,7 @@
 
 :man_student: I am Patrick Mahnkopf, a **Full Stack Software Engineer** with an **M.Sc. in Computer Science** from the Leibniz University of Hannover, Germany.
 
-:man_technologist: I have done **Cross-Platform** work with **Flutter** and **Dart**, **Front end development** with **Angular**, native development for **Android**, **Machine Learning** (especially working on **Handwriting OCR** using **Tensorflow** and **Keras**), as well as hobby projects such as an Add-on for the Spaced repetition software Anki.
+:man_technologist: I do **Cross-Platform** work with **Flutter** and **Dart**, **Front end development** with **Angular**, native development for **Android**, **Machine Learning** (especially working on **Handwriting OCR** using **Tensorflow** and **Keras**), as well as hobby projects such as an Add-on for the Spaced repetition software Anki.
 
 :world_map: I love learning **languages** and using them to connect with people from all around the world. My current focus is on East Asia, but I plan to diversify my language repertoire when I have progressed enough in the languages I'm studying at the moment.  
 I currently speak <img alt="German Flag" width="16px" src="./germany-flag.svg"> **German**, <img alt="United States of America Flag" width="16px" src="./united-states-of-america-flag.svg" style="pointer: none;"> **English**, <img alt="Japanese Flag" width="16px" src="./japan-flag.svg"> **Japanese**, and <img alt="Chinese Flag" width="16px" src="./china-flag.svg"> **Mandarin Chinese**.
