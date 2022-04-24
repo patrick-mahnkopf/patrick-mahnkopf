@@ -9,7 +9,7 @@
 :world_map: I love learning **languages** and using them to connect with people from all around the world. My current focus is on East Asia, but I plan to diversify my language repertoire when I have progressed enough in the languages I'm studying at the moment.  
 I currently speak <img alt="German Flag" width="16px" src="./germany-flag.svg"> **German**, <img alt="United States of America Flag" width="16px" src="./united-states-of-america-flag.svg" style="pointer: none;"> **English**, <img alt="Japanese Flag" width="16px" src="./japan-flag.svg"> **Japanese**, and <img alt="Chinese Flag" width="16px" src="./china-flag.svg"> **Mandarin Chinese**.
 
-:airplane: I also love **travelling** to see our planet's incredible **nature**, interacting with **locals** while utilizing my **language skills**, exploring other **cultures** and **ways of thinking**, and of course dining on lots of mouth-watering **food**.
+:airplane: I also love **travelling** to see our planet's incredible **nature**, interact with **locals** while utilizing my **language skills**, explore other **cultures** and **ways of thinking**, and of course dine on lots of mouth-watering **food**.
 
 :open_book: I enjoy reading books on various topics ranging from **technical literature** like **"Clean Architecture"** by *Robert C. Martin*, **philosophical books** like **"Superintelligence"** by *Nick Bostrom*, and **psychological books** like **"Where Good Ideas Come from"** by *Steven Johnson*, **"Why We Sleep"** by *Matthew Walker*, and **"The Language Instict"** by *Steven Pinker* to name a few of my favorites.
 
